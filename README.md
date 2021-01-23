@@ -1,1 +1,1 @@
-# example-1
+This is an example package to publishing python code
